@@ -1,1 +1,1 @@
-a web application where users enter symptoms, age, lifestyle habits, and basic vitals to get predictions for multiple diseases like diabetes, heart disease, liver disease, and kidney failure simultaneously.
+A web application where users enter symptoms, age, lifestyle habits, and basic vitals to get predictions for multiple diseases like diabetes, heart disease, liver disease, and kidney failure simultaneously.
